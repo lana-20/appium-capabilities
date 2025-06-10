@@ -372,13 +372,13 @@ These capabilities are recognized by all Appium drivers:
 Found a missing capability or error? Please contribute by:
 1. Opening an issue
 2. Submitting a pull request
-3. Checking the official [Appium documentation](https://appium.io/docs/)
+3. Checking the official [Appium documentation](https://appium.io/docs/en/latest/)
 
 ## Resources
 
 - [Official Appium Capabilities Documentation](https://appium.io/docs/en/2.0/guides/caps/)
 - [Appium GitHub Repository](https://github.com/appium/appium)
-- [W3C WebDriver Specification](https://w3c.github.io/webdriver/)
+- [W3C WebDriver Specification](https://w3c.github.io/webdriver/#capabilities)
 
 ---
 
